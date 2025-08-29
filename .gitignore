@@ -1,4 +1,6 @@
 *.csv
-.ipynb_checkpoints
 *.pickle
+*.jpg
+*.BAK
+.ipynb_checkpoints
 catboost_info
